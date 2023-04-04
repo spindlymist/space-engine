@@ -1,0 +1,43 @@
+Date : 2020-06-07 13:44:21
+Directory : c:\Users\Robin\Dropbox\TeacherRobin\space\engine
+Total : 17 files,  689 codes, 14 comments, 204 blanks, all 907 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         17 |        689 |         14 |        204 |        907 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |         17 |        689 |         14 |        204 |        907 |
+| math                                                                  |          5 |        278 |          0 |         82 |        360 |
+| physics                                                               |          2 |         32 |          0 |         16 |         48 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                              | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Behavior.js          | JavaScript |         15 |          0 |          8 |         23 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Camera.js            | JavaScript |         31 |          0 |          9 |         40 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Engine.js            | JavaScript |        121 |          4 |         30 |        155 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Entity.js            | JavaScript |         33 |          0 |         12 |         45 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Input.js             | JavaScript |         70 |          0 |         14 |         84 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Math.js              | JavaScript |         27 |          0 |          7 |         34 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Physics.js           | JavaScript |          8 |          0 |          6 |         14 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Resources.js         | JavaScript |         23 |          0 |          7 |         30 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Sprite.js            | JavaScript |         25 |         10 |          9 |         44 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\Transform.js         | JavaScript |         26 |          0 |          4 |         30 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\math\Circle.js       | JavaScript |         10 |          0 |          4 |         14 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\math\Polygon.js      | JavaScript |         64 |          0 |         20 |         84 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\math\Random.js       | JavaScript |         12 |          0 |          5 |         17 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\math\Rect.js         | JavaScript |         55 |          0 |         14 |         69 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\math\Vector2.js      | JavaScript |        137 |          0 |         39 |        176 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\physics\Collider.js  | JavaScript |          8 |          0 |          6 |         14 |
+| c:\Users\Robin\Dropbox\TeacherRobin\space\engine\physics\RigidBody.js | JavaScript |         24 |          0 |         10 |         34 |
+| Total                                                                 |            |        689 |         14 |        204 |        907 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
